@@ -1,6 +1,11 @@
-<?php
-    echo "Olá Teste!";
-    echo '<br>';
-    echo "Olá Teste! 2";
-    echo '<br>';
-    echo "Olá Teste! 3";
+<html>
+    <head>
+        <title>Título</title>
+    </head>
+    <body>
+        <h1>
+            teste
+        </h1>
+        
+    </body>
+</html>
